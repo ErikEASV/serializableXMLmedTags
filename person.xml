@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+    <navn>Sørine</navn>
+    <alder>62</alder>
+    <adresser>
+        <adresse>
+            <gade>Sommergade 75</gade>
+            <postnummer>8000</postnummer>
+            <by>Aarhus C</by>
+        </adresse>
+        <adresse>
+            <gade>Vintervej 2</gade>
+            <postnummer>8300</postnummer>
+            <by>Odder</by>
+        </adresse>
+    </adresser>
+</person>
