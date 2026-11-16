@@ -2,7 +2,23 @@ package org.example;
 
 import jakarta.xml.bind.*;
 import java.io.File;
-import java.util.ArrayList;
+
+/*
+Dette er et eksempel på serialisering til XML fil med XML tags.
+Det kræver at modelklasser udstyres med XML direktiver og at alle objekter samles i
+een rodklasse.
+Yderligere skal JAXB mv. indsættes i depencies for Maven:
+    <dependency>
+        <groupId>jakarta.xml.bind</groupId>
+        <artifactId>jakarta.xml.bind-api</artifactId>
+        <version>4.0.2</version>
+    </dependency>
+    <dependency>
+        <groupId>org.glassfish.jaxb</groupId>
+        <artifactId>jaxb-runtime</artifactId>
+        <version>4.0.5</version>
+    </dependency>
+ */
 
 public class JaxbDemo {
 

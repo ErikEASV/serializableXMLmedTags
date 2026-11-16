@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <person>
-    <navn>Sørine</navn>
-    <alder>62</alder>
+    <navn>Søren</navn>
+    <alder>42</alder>
     <adresser>
         <adresse>
-            <gade>Sommergade 75</gade>
+            <gade>Hovedgade 1</gade>
             <postnummer>8000</postnummer>
             <by>Aarhus C</by>
         </adresse>
         <adresse>
-            <gade>Vintervej 2</gade>
+            <gade>Sommervej 7</gade>
             <postnummer>8300</postnummer>
             <by>Odder</by>
         </adresse>
